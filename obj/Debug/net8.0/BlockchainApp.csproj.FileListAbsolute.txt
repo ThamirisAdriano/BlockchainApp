@@ -1,0 +1,14 @@
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.AssemblyInfoInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.AssemblyInfo.cs
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.csproj.CoreCompileInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/bin/Debug/net8.0/BlockchainApp
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/bin/Debug/net8.0/BlockchainApp.deps.json
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/bin/Debug/net8.0/BlockchainApp.runtimeconfig.json
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/bin/Debug/net8.0/BlockchainApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/bin/Debug/net8.0/BlockchainApp.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/refint/BlockchainApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/BlockchainApp.genruntimeconfig.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/BlockchainApp/obj/Debug/net8.0/ref/BlockchainApp.dll
